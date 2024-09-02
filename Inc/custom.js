@@ -1,2 +1,2 @@
 // I am from master
-alert("Hello master");
+console.log("I am slider.");
